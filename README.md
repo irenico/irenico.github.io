@@ -1,6 +1,6 @@
 # URLs
 
-<irenico.github.io>
+[Github Pages](irenico.github.io)>
 
-<ireni.co>
+[Apex Domain](ireni.co)
 
